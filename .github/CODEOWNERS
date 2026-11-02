@@ -1,2 +1,5 @@
-* @xynydev @fiftydinar
-modules/dnf/* @gmpinder
+modules/clean-repos/* @butrejp
+modules/custom-kernel/* @butrejp
+modules/fedora-rpm/* @butrejp
+modules/image-info/* @butrejp
+modules/nix/* @butrejp
